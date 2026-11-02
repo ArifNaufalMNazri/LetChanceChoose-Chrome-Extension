@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "LetChanceChoose",
+  "version": "1.0.0",
+  "description": "Random task chooser",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": ["tabs"],
+  "keywords": [],
+  "author": "Arif Naufal",
+  "license": "ISC",
+  "type": "commonjs"
+}
